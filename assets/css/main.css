@@ -1445,16 +1445,16 @@ body {
   text-transform: uppercase;
 }
 .contact--lockup .modal--options li:nth-child(4) {
-  background-color: #ff318e;
+  background-color: #3b3b3b;
   text-transform: uppercase;
 }
 .contact--lockup .modal--options li:nth-child(5) {
-  background-color: #3b3b3b;
+  background-color: #ff318e;
   text-transform: uppercase;
 }
 .contact--lockup .modal--options li:nth-child(6) {
   margin-bottom: 0;
-  background-color: #6bff39;
+  background-color: #acacac;
   text-transform: uppercase;
 }
 .contact--lockup .modal--options a {
