@@ -1431,7 +1431,7 @@ body {
 }
 .contact--lockup .modal--options > li {
   width: 180px;
-  margin: 0 auto 25px auto;
+  margin: 0 auto 15px auto;
   border-radius: 3px;
 }
 .contact--lockup .modal--options li:nth-child(1) {
