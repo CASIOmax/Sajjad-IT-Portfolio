@@ -21,8 +21,7 @@ This project is part of the Headstarter.AI Software Engineering Fellowship. It i
 
 ### Deployment
 
-- **GitHub Pages**: Deployed the project on [GitHub Pages](#link1).
-- **Netlify**: Also available on [Netlify](#link2).
+- **GitHub Pages**: Deployed the project on [GitHub Pages](https://casiomax.github.io/Sajjad-IT-Portfolio/).
 
 ## Key Learnings
 
